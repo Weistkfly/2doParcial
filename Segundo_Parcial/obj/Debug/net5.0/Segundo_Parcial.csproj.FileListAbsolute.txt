@@ -1,0 +1,16 @@
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\bin\Debug\net5.0\Segundo_Parcial.exe
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\bin\Debug\net5.0\Segundo_Parcial.deps.json
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\bin\Debug\net5.0\Segundo_Parcial.runtimeconfig.json
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\bin\Debug\net5.0\Segundo_Parcial.runtimeconfig.dev.json
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\bin\Debug\net5.0\Segundo_Parcial.dll
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\bin\Debug\net5.0\Segundo_Parcial.pdb
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\Segundo_Parcial.csproj.AssemblyReference.cache
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\Segundo_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\Segundo_Parcial.AssemblyInfoInputs.cache
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\Segundo_Parcial.AssemblyInfo.cs
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\Segundo_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\Segundo_Parcial.dll
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\refint\Segundo_Parcial.dll
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\Segundo_Parcial.pdb
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\Segundo_Parcial.genruntimeconfig.cache
+C:\Users\Weistkfly\source\repos\Segundo_Parcial\Segundo_Parcial\obj\Debug\net5.0\ref\Segundo_Parcial.dll
